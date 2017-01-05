@@ -1,0 +1,35 @@
+.panel {
+  border: 1px solid grey;
+  border-radius: 0;
+  padding: 2px;
+  background-color: lightgrey;
+  padding-left: 10px;
+}
+
+p.free {
+  width: 70%;
+  font-size: 1.5rem;
+  border: 1px solid red;
+}
+ul.my-float-right {
+  float: right;
+  border: 1px solid red;
+  width: 100%;
+  padding-top: 20px;
+  padding-left: 0px;
+
+}
+.my-float-left{
+  width: 70%;
+  border: 1px solid red;
+}
+.search-glass-format {
+  width: 50%;
+  border: 1px solid red;
+  width: 31px;
+}
+.form-group {
+  height: auto;
+  border: 1px solid red;
+  float: left;
+}
