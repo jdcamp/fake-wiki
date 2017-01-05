@@ -1,10 +1,10 @@
-.panel {
+/*.panel {
   border: 1px solid grey;
   border-radius: 0;
   padding: 2px;
   background-color: lightgrey;
   padding-left: 10px;
-}
+}*/
 
 p.free {
   width: 70%;
@@ -32,4 +32,19 @@ ul.my-float-right {
   height: auto;
   border: 1px solid red;
   float: left;
+}
+.navbar {
+  background-color: white;
+  border: 0px;
+}
+
+img.column-img {
+  width:150px;
+  height: auto;
+  float: left;
+  margin-right: 10px
+}
+.test {
+  border: 5px solid red;
+  background-color: lightgrey;
 }
