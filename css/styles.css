@@ -9,11 +9,9 @@
 p.free {
   width: 70%;
   font-size: 1.5rem;
-  border: 1px solid red;
 }
 ul.my-float-right {
   float: right;
-  border: 1px solid red;
   width: 100%;
   padding-top: 20px;
   padding-left: 0px;
@@ -21,16 +19,13 @@ ul.my-float-right {
 }
 .my-float-left{
   width: 70%;
-  border: 1px solid red;
 }
 .search-glass-format {
   width: 50%;
-  border: 1px solid red;
   width: 31px;
 }
 .form-group {
   height: auto;
-  border: 1px solid red;
   float: left;
 }
 .navbar {
@@ -45,6 +40,15 @@ img.column-img {
   margin-right: 10px
 }
 .test {
-  border: 5px solid red;
   background-color: lightgrey;
+}
+.column1 {
+  background-color: #f5fffa;
+}
+.panel {
+  background-color: #f5faff;
+}
+
+.101 {
+  color: red;
 }
